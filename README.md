@@ -1,2 +1,1 @@
-# ac_ia
-Proyecto de inteligencia artificial en AC
+Proyecto de inteligencia artificial en Actividad Complementaria
